@@ -4,7 +4,7 @@ Foi desenvolvido um Bate Papo utilizando o emulador de redes, CORE, foi utilizad
    
 <h2> Desenvolvedores
 
-<p><a href="https://github.com/danielsf2">Daniel Soares
+<a href="https://github.com/danielsf2">Daniel Soares
 </br>
-<p><a href="https://github.com/carlosguimaraes10">Carlos Guimarães
+<a href="https://github.com/carlosguimaraes10">Carlos Guimarães
 
